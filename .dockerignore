@@ -1,0 +1,12 @@
+# unused files for image
+.idea
+.git
+.elasticbeanstalk
+Dockerfile
+.test
+
+# node_modules installs via Dockerfile
+node_modules
+
+# dist builds in image
+dist
